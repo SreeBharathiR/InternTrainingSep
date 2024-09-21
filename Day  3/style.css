@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.paraStyle {
+  background-color: chartreuse;
+}
+h3 {
+  color: crimson;
+}
+#idstyle {
+  text-align: center;
+}
+.First .second {
+  background-color: chocolate;
+}
